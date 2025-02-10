@@ -1,5 +1,4 @@
 # CHAOS AI Desktop Assistant
-Overview
 CHAOS AI is a voice-enabled desktop assistant that integrates Google Gemini AI for conversational capabilities. It can recognize voice commands, respond with text-to-speech, control Spotify playback, open websites, launch applications, and perform other tasks like fetching the current time.
 
 Features:-
